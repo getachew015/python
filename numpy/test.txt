@@ -1,0 +1,12 @@
+This
+is
+a
+test
+on
+searching
+a
+string
+value
+in
+a
+file.
